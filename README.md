@@ -21,9 +21,10 @@ I’ve started learning **Data Structures & Algorithms** from scratch with the g
 | # | Question no. | Problem            | Topic                  | Time Complexity | Space Complexity |
 | - | ------------ | ------------------ | ---------------------- | --------------- | ---------------- |
 | 1 | 786          | Rotate two strings | Strings                | O(n²)           | O(n)             |
-| 2 | 83           | Reverse String     | Strings / Two Pointers | O(n)            | O(1)             |
-| 3 | 4            | Valid Anagram      | Strings / Hashing      | O(n)            | O(1)             |
-| 4 | 48 | Rotate Image | Arrays | O(n²) | O(1) |
+| 2 | 48 | Rotate Image | Arrays | O(n²) | O(1) |
+| 3 | 4            | Jumping game IX      | Array / DP      | O(n)            | O(n)             |
+| 4 | 1861           | Rotating the box     | Array / Two Pointers | O(m*n)            | O(m*n)             |
+| 5 | 788  | Rotated Digits | Arrays | O(n*log(n)) | O(1) |
 
 
 > ✅ Table will be updated regularly as I solve more problems.
