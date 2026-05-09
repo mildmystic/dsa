@@ -18,7 +18,7 @@ I’ve started learning **Data Structures & Algorithms** from scratch with the g
 
 ## 📊 Progress Tracker
 
-| # | Question no. | Problem            | Topic                  | Time Complexity | Space Complexity |
+| # | Question no. | Problem            | Topic                  | Time Complexity  | Space Complexity |
 | - | ------------ | ------------------ | ---------------------- | --------------- | ---------------- |
 | 1 | 786          | Rotate two strings | Strings                | O(n²)           | O(n)             |
 | 2 | 48 | Rotate Image | Arrays | O(n²) | O(1) |
