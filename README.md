@@ -34,7 +34,7 @@ I’ve started learning **Data Structures & Algorithms** from scratch with the g
 
 ## 🧠 Coding Guidelines I Follow
 
-* Clean and readable C++ code
+* Clean and readable C++ code 
 * Meaningful variable names
 * Edge cases handled properly
 * Optimized solutions preferred
