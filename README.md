@@ -26,9 +26,7 @@ I’ve started learning **Data Structures & Algorithms** from scratch with the g
 | 4 | 1861           | Rotating the box     | Array / Two Pointers | O(m*n)            | O(m*n)             |
 | 5 | 788  | Rotated Digits | Arrays | O(n*log(n)) | O(1) |
 
-
 > ✅ Table will be updated regularly as I solve more problems.
-
 
 ---
 
