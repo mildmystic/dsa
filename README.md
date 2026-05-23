@@ -27,7 +27,7 @@ I’ve started learning **Data Structures & Algorithms** from scratch with the g
 | 5 | 788  | Rotated Digits | Arrays | O(n*log(n)) | O(1) |
  
 > ✅ Table will be updated regularly as I solve more problems.
- 
+
 ---
 
 ## 🧠 Coding Guidelines I Follow
